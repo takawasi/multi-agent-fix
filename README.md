@@ -76,6 +76,10 @@ Different temperatures produce different fixes:
 
 Running them in parallel means you get the fastest fix that works.
 
+## More Tools
+
+See all dev tools: https://takawasi-social.com/en/
+
 ## License
 
 MIT
