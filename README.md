@@ -1,5 +1,7 @@
 # multi-agent-fix
 
+> **Documentation**: https://takawasi-social.com/tools/multi-agent-fix/
+
 Parallel AI agents race to fix your failing tests.
 
 Multiple agents generate different fixes simultaneously. First one that passes wins.
